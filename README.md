@@ -12,4 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungHyeonmin&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃아이디&show_icons=true&theme=radical)
+## Team
+|<img src="https://avatars.githubusercontent.com/u/148692050?v=4" width="150" height="150"/>|
+|:-:|
+|MungChi<br/>[@JungHyeonmin](https://github.com/JungHyeonmin)|
