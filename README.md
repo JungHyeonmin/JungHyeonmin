@@ -1,4 +1,4 @@
-### <p align="center">: octocat : 안녕하세요? 정현민입니다. 👋</p>
+### <p align="center">: 개발자가 되자 : 안녕하세요? 정현민입니다. 👋</p>
 
 <p align="center">
   
