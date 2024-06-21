@@ -14,3 +14,16 @@
     <img src="https://github-readme-stats.vercel.app/api?username=JungHyeonmin&theme=tokyonight&show_icons=true" width="42%" />
   </a>
 </p>
+
+## <p align="center">🔨 Tech Stacks 🔨</p>
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- Backend -->
+      <p align="center"><strong>Backend</strong></p>
+  <div>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+  </p>
+  </div>
+</div>
+</p>
