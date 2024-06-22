@@ -1,16 +1,13 @@
 ### <p align="center">: 개발자가 되자 : 안녕하세요? 정현민입니다. 👋</p>
 
-<p align="center">
-  
-  <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-  </a>
-  
-  <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api?username=JungHyeonmin&theme=tokyonight&show_icons=true" width="42%" />
-  </a>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=JungHyeonmin&theme=dracula&border_radius=)
+<img src="https://github-readme-stats.vercel.app/api?username=JungHyeonmin&theme=dracula&show_icons=true" width="46%" />
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JungHyeonmin&theme=dracula&utcOffset=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"  width="36%"/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JungHyeonmin&theme=dracula)
+  
 ## <p align="center">🔨 Tech Stacks 🔨</p>
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
