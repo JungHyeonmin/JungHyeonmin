@@ -6,6 +6,12 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JungHyeonmin&theme=dracula)
+
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{JungHyeonmin}"/>
+</a>
+</div>
   
 ## <p align="center">🔨 Tech Stacks 🔨</p>
 
@@ -21,6 +27,8 @@
     </p>
   </div>
 </div>
+
+
         
 ## <p align="center">🐶Mungchi🐶 </p>
 
