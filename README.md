@@ -1,4 +1,4 @@
-### <p align="center">: 🐕발자가 되자 : 안녕하세요? 정현민입니다. 👋</p>
+### <p align="center">: 개발자가 되자 : 안녕하세요? 정현민입니다. 👋</p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JungHyeonmin&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight"  width="41%"/> ![GitHub Streak](https://streak-stats.demolab.com/?user=JungHyeonmin&theme=dracula&border_radius=)
 
