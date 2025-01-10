@@ -1,6 +1,6 @@
 ### <p align="center">: 성실한 개발자가 되자 : 안녕하세요! 정현민입니다. 👋</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JungHyeonmin&theme=dracula&show_icons=true" width="56%" />![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JungHyeonmin&theme=dracula&utcOffset=8 )
+<img src="https://github-readme-stats.vercel.app/api?username=JungHyeonmin&theme=dracula&show_icons=true" width="56%" />
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JungHyeonmin&theme=dracula)
