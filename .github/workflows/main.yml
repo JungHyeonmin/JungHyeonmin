@@ -10,15 +10,25 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
+      # 1. Checkout the repository
+      - uses: actions/checkout@v4
+      
+      # 2. Run the GitHub Profile 3D Contribution generator
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.README }}
           USERNAME: ${{ github.repository_owner }}
+      
+      # 3. Pull the latest changes from the remote repository
+      - name: Pull latest changes
+        run: |
+          git config user.name "JungHyeonmin"
+          git config user.email "2ee42a45@gmail.com"
+          git pull --rebase origin main
+      
+      # 4. Commit and push changes
       - name: Commit & Push
         run: |
-          git config user.name JungHyeonmin
-          git config user.email 2ee42a45@gmail.com
-          git add -A .
+          git add -A
           git commit -m "generated"
           git push
