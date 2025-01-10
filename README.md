@@ -9,6 +9,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{JungHyeonmin}"/>
 </a>
+
+  ![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
   
 ## <p align="center">🔨Tech Stacks 🔨</p>
