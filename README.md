@@ -1,13 +1,13 @@
 ### <p align="center">: 🔥성실한 개발자가 되자🔥 : 안녕하세요! 정현민입니다.</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JungHyeonmin&theme=dracula&show_icons=true" width="50%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JungHyeonmin&theme=dracula" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JungHyeonmin&theme=dracula&show_icons=true" width="48%" />
+   <img src="https://render.gitanimals.org/farms/{JungHyeonmin}" width="40%" />
 </div>
 
 <div align="center">
-    <img src="https://render.gitanimals.org/farms/{JungHyeonmin}" width="40%" />
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="50%" />
+   
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="70%" />
 </div>
 
 <div align="center">
