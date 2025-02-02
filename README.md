@@ -52,4 +52,13 @@
     </p>
   </div>
 
+  <!-- 요즘 진행하는 프로젝트 -->
+<p align="center"><strong>DevOps</strong></p>
+  <div>
+    <p align="center">
+      마리모 웹페이지 제작 중.. (1/14 ~ )
+    </p>
+  </div>
+
+
 </div>
