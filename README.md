@@ -56,7 +56,7 @@
 <p align="center"><strong>Project ~ing</strong></p>
   <div>
     <p align="center">
-      마리모 웹페이지 제작 중.. (1/14 ~ )
+      <!-- 마리모 웹페이지 제작 중.. (1/14 ~ ) -->
     </p>
   </div>
 
