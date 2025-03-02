@@ -53,12 +53,13 @@
   </div>
 
   <!-- 요즘 진행하는 프로젝트 -->
-<!-- <p align="center"><strong>Project ~ing</strong></p>
+<p align="center"><strong>Project ~ing</strong></p>
   <div>
     <p align="center">
-      마리모 웹페이지 제작 중.. (1/14 ~ )
+      1. 정처기 필기 준비 (3/1 ~)</br>
+      2. SQLD 준비 (3/1 ~)</br>
+      3. 프로젝트 준비 (3/1 ~)</br>
     </p>
   </div>
--->
 
 </div>
