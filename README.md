@@ -56,9 +56,7 @@
 <p align="center"><strong>Project ~ing</strong></p>
   <div>
     <p align="center">
-      1. 정처기 필기 준비 (3/1 ~)</br>
-      2. SQLD 준비 (3/1 ~)</br>
-      3. 매일 코테 1문제 (3/30 ~)</br>
+      Github 대신 SVN 사용중.. 간간이 TIL, 코테를 올리는 중입니다.
     </p>
   </div>
 
